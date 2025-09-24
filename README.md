@@ -1,40 +1,40 @@
-🎁 Aplicación Amigo Secreto
+<h1>🎁 Aplicación Amigo Secreto </h1>
 
 Esta es una aplicación sencilla desarrollada con HTML, CSS y JavaScript que permite registrar nombres de participantes y realizar el sorteo para encontrar quién será el amigo secreto.
 
 
-🚀 Funcionalidades
+<h3>🚀 Funcionalidades </h3>
 
-Agregar nombres de los amigos a la lista.
+- Agregar nombres de los amigos a la lista.
 
-Visualizar en pantalla los nombres ingresados.
+- Visualizar en pantalla los nombres ingresados.
 
-Realizar un sorteo aleatorio para seleccionar al amigo secreto.
+- Realizar un sorteo aleatorio para seleccionar al amigo secreto.
 
-Mostrar en pantalla el resultado del sorteo.
+- Mostrar en pantalla el resultado del sorteo.
 
-🛠️ Tecnologías utilizadas
+<h3> 🛠️ Tecnologías utilizadas </h3>
 
-HTML5 → estructura de la aplicación.
+- HTML5 → estructura de la aplicación.
 
-CSS3 → estilos básicos y presentación.
+- CSS3 → estilos básicos y presentación.
 
-JavaScript (Vanilla JS) → lógica para agregar amigos y realizar el sorteo.
+- JavaScript (Vanilla JS) → lógica para agregar amigos y realizar el sorteo.
 
-📌 Uso
+<h3> 📌 Uso </h3>
 
-Escribe el nombre de un amigo en el campo de texto.
+- Escribe el nombre de un amigo en el campo de texto.
 
-Haz clic en el botón Agregar para incluirlo en la lista.
+- Haz clic en el botón Agregar para incluirlo en la lista.
 
-Una vez tengas todos los nombres, presiona el botón Sortear amigo secreto.
+- Una vez tengas todos los nombres, presiona el botón Sortear amigo secreto.
 
-El sistema mostrará en pantalla quién fue elegido al azar.
+- El sistema mostrará en pantalla quién fue elegido al azar.
 
-✨ Mejoras futuras
+ <h3> ✨ Mejoras futuras </h3>
 
-Evitar nombres vacíos o repetidos.
+- Evitar nombres vacíos o repetidos.
 
-Permitir múltiples sorteos sin refrescar la página.
+- Permitir múltiples sorteos sin refrescar la página.
 
-Animaciones para el resultado.
+- Animaciones para el resultado.
