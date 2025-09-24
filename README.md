@@ -1,6 +1,7 @@
 <h1>🎁 Aplicación Amigo Secreto </h1>
 
 Esta es una aplicación sencilla desarrollada con HTML, CSS y JavaScript que permite registrar nombres de participantes y realizar el sorteo para encontrar quién será el amigo secreto.
+<img src="assets/amigo-secreto.png" alt="Vista previa Amigo Secreto" width="500">
 
 
 <h3>🚀 Funcionalidades </h3>
